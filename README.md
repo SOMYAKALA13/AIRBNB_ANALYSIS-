@@ -1,4 +1,4 @@
-# AIRBNB_ANALYSIS-
+# AIRBNB_ANALYSIS
 # 🏠 Airbnb Seattle — Listings & Revenue Dashboard
 
 Interactive Tableau dashboard exploring pricing, geography, and revenue trends across Seattle Airbnb listings.

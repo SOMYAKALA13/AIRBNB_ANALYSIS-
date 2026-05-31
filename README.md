@@ -12,6 +12,8 @@ This dashboard visualizes key metrics from the Seattle Airbnb dataset across fou
 - **Price per Zipcode (Map)** — Choropleth map (Mapbox) showing geographic distribution of pricing across Seattle neighborhoods
 - **Revenue per Year** — Time-series chart tracking cumulative calendar revenue from early 2016 through mid-2017
 - **Listings of Bedroom (Filter)** — Interactive filter to slice all views by bedroom count (1–5+)
+  <img width="1255" height="907" alt="Screenshot 2026-05-31 122656" src="https://github.com/user-attachments/assets/9761fcb3-db3f-4922-886e-fefe687afbd8" />
+
 
 ## 🔍 Key Insights
 
